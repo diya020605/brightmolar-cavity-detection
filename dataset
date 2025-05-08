@@ -1,0 +1,2 @@
+cp /path/to/model.h5 .
+cp /path/to/app.py .
